@@ -1,5 +1,5 @@
-<!----- 👋 Hi, I’m @BernH4
-- 👀 I’m interested in almost everything regarding computer science & automation
+👋 Hi, I’m @BernH4
+<!----- - 👀 I’m interested in almost everything regarding computer science & automation
 - 🌱 I’m currently learning Manim & Latex
  💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
