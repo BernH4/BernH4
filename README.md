@@ -1,4 +1,4 @@
-# Auszug privater Projekte (alle von 2021):
+# Auszug privater Projekte:
 
 ## [Monitoring Füllstand Zisterne](https://github.com/BernH4/zisterne_fuellstand/tree/master) (2021)
 Kurzbeschreibung: Energiesparende HW und Software (Barebone ESP12 in Verbindung DeepSleep + trennen von Spannungsversorgung Sensorik während dieser Zeit)  misst mithilfe von Ultraschallsensor Füllstand einer Zisterne.
@@ -31,3 +31,15 @@ CLI App um gegen einen anderen Spieler Schach zu spielen.
 Finales Projekt des Ruby Curicculums von [TheOdinProject](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) 
 ![chess](https://github.com/BernH4/BernH4/assets/62931413/70552fb3-d149-4fb9-b5c1-3243ab109e7d)
 
+## Manim Präsentation Fachreferat zum Thema Integrale (2022)
+Manim ist eine Python-Bibliothek zum Erstellen mathematischer Animationen.
+
+Repo: https://github.com/BernH4/fachreferat_integralrechnung_source
+
+Demo: https://bernh4.github.io/fachreferat_integralrechnung/
+
+![manim_integral_screenshot](https://github.com/BernH4/BernH4/assets/62931413/1c86b64a-b481-43c1-8cf2-a8d3974b45e3)
+
+## [Telegram Bot zum einfachen Downloaden von Videos als MP3 Datei](https://github.com/BernH4/youtube-telegram) (2020)
+
+<img src="https://github.com/BernH4/youtube-telegram/assets/62931413/458db7e9-1afa-48ee-9c77-ac7d94da115c" height="700" >
