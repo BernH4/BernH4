@@ -7,6 +7,8 @@ Bei einer Übertragung der Daten alle 30 Minuten per WiFi hält ein 3000mAh 1865
 
 ![cistern_front](https://github.com/BernH4/BernH4/assets/62931413/2a126f26-6f6a-4fc9-baca-ba43090b1766)
 ![cistern_back](https://github.com/BernH4/BernH4/assets/62931413/2d62dbe9-ac4e-4a2a-a791-7e6c0dc6853b)
+![Screenshot from 2024-02-12 14-21-09](https://github.com/BernH4/BernH4/assets/62931413/faf14bab-7445-4ef0-b0dc-735b8c8c4129)
+
 
 
 ## Energiebedarf Monitoring
