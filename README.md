@@ -3,6 +3,7 @@
 ## [Monitoring Füllstand Zisterne](https://github.com/BernH4/zisterne_fuellstand/tree/master) (2021)
 Kurzbeschreibung: Energiesparende HW und Software (Barebone ESP12 in Verbindung DeepSleep + trennen von Spannungsversorgung Sensorik während dieser Zeit)  misst mithilfe von Ultraschallsensor Füllstand einer Zisterne.
 Daten werden per MQTT an NodeRed zur Datenaufbereitung gesendet. Die in InfluxDB gespeicherte Daten werden in Grafana visualisiert.
+Software Updates sind per OverTheAir (OTA) Update möglich. (ESP checkt nach jedem Aufwachen ob eine neue Software Version auf dem Server (NGINX auf RaspberryPi) abliegt und updated sich selbstständig)
 Bei einer Übertragung der Daten alle 30 Minuten per WiFi hält ein 3400mAh 18650 Lithium Ionen Akku etwa ein halbes Jahr.
 
 ![cistern_front](https://github.com/BernH4/BernH4/assets/62931413/2a126f26-6f6a-4fc9-baca-ba43090b1766)
