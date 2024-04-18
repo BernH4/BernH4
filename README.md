@@ -2,7 +2,7 @@
 
 ## [Monitoring Füllstand Zisterne](https://github.com/BernH4/zisterne_fuellstand/tree/master) (2021)
 Kurzbeschreibung: Energiesparende HW und Software (Barebone ESP12 in Verbindung DeepSleep + trennen von Spannungsversorgung Sensorik während dieser Zeit)  misst mithilfe von Ultraschallsensor Füllstand einer Zisterne.
-Daten werden per MQTT an NodeRed zur Datenaufbereitung gesendet. Die in InfluxDB gespeicherte Daten werden in Grafana visualisiert.
+Daten werden per MQTT an NodeRed zur Datenaufbereitung gesendet. Die in InfluxDB gespeicherten Daten werden in Grafana visualisiert.
 Software Updates sind per OverTheAir (OTA) Update möglich. (ESP checkt nach jedem Aufwachen ob eine neue Software Version auf dem Server (NGINX auf RaspberryPi) abliegt und updated sich selbstständig)
 Bei einer Übertragung der Daten alle 30 Minuten per WiFi hält ein 3400mAh 18650 Lithium Ionen Akku etwa ein halbes Jahr.
 
@@ -32,7 +32,7 @@ CLI App um gegen einen anderen Spieler Schach zu spielen.
 Finales Projekt des Ruby Curicculums von [TheOdinProject](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) 
 ![chess](https://github.com/BernH4/BernH4/assets/62931413/70552fb3-d149-4fb9-b5c1-3243ab109e7d)
 
-## Manim Präsentation Fachreferat zum Thema Integrale (2022)
+## Manim Präsentation Fachreferat zum Thema Integralrechnung (2022)
 Manim ist eine Python-Bibliothek zum Erstellen mathematischer Animationen.
 
 Repo: https://github.com/BernH4/fachreferat_integralrechnung_source
